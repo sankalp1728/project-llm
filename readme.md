@@ -1,0 +1,1 @@
+Trying to use LLM and vector DBs to create a viable product
